@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.f91ad21b.css",
-    "main.js": "./static/js/main.b10cbd76.js",
-    "static/js/453.2d3a34cf.chunk.js": "./static/js/453.2d3a34cf.chunk.js",
-    "static/media/first.png": "./static/media/first.1adc15d60c424711a1f8.png",
-    "static/media/poe2.png": "./static/media/poe2.bc5b88ba2ce4428820bc.png",
-    "static/media/lostark.png": "./static/media/lostark.47bc0054b0a7f952887b.png",
-    "static/media/dekaron.png": "./static/media/dekaron.cbe42caca6c60a49a9b0.png",
-    "static/media/battle.png": "./static/media/battle.2a3ece0f3fe0e426f3c3.png",
-    "static/media/blackdesert.png": "./static/media/blackdesert.de480c7899db4e21fe75.png",
-    "static/media/m_loa.png": "./static/media/m_loa.b6df4eaec86cb6cd3722.png",
-    "static/media/m_fst.png": "./static/media/m_fst.806aa9982acb99300bba.png",
-    "static/media/m_bdo.png": "./static/media/m_bdo.6a4d00b2ca4d6b4fa0e2.png",
-    "static/media/logo.png": "./static/media/logo.cd8ac3f909f0d8bd98ee.png",
-    "static/media/logo1.png": "./static/media/logo1.79210ec7d35d4c172e23.png",
-    "index.html": "./index.html",
-    "main.f91ad21b.css.map": "./static/css/main.f91ad21b.css.map",
-    "main.b10cbd76.js.map": "./static/js/main.b10cbd76.js.map",
-    "453.2d3a34cf.chunk.js.map": "./static/js/453.2d3a34cf.chunk.js.map"
+    "main.css": "/shinbeolui/static/css/main.f91ad21b.css",
+    "main.js": "/shinbeolui/static/js/main.4575fb5a.js",
+    "static/js/453.2d3a34cf.chunk.js": "/shinbeolui/static/js/453.2d3a34cf.chunk.js",
+    "static/media/first.png": "/shinbeolui/static/media/first.1adc15d60c424711a1f8.png",
+    "static/media/poe2.png": "/shinbeolui/static/media/poe2.bc5b88ba2ce4428820bc.png",
+    "static/media/lostark.png": "/shinbeolui/static/media/lostark.47bc0054b0a7f952887b.png",
+    "static/media/dekaron.png": "/shinbeolui/static/media/dekaron.cbe42caca6c60a49a9b0.png",
+    "static/media/battle.png": "/shinbeolui/static/media/battle.2a3ece0f3fe0e426f3c3.png",
+    "static/media/blackdesert.png": "/shinbeolui/static/media/blackdesert.de480c7899db4e21fe75.png",
+    "static/media/m_loa.png": "/shinbeolui/static/media/m_loa.b6df4eaec86cb6cd3722.png",
+    "static/media/m_fst.png": "/shinbeolui/static/media/m_fst.806aa9982acb99300bba.png",
+    "static/media/m_bdo.png": "/shinbeolui/static/media/m_bdo.6a4d00b2ca4d6b4fa0e2.png",
+    "static/media/logo.png": "/shinbeolui/static/media/logo.cd8ac3f909f0d8bd98ee.png",
+    "static/media/logo1.png": "/shinbeolui/static/media/logo1.79210ec7d35d4c172e23.png",
+    "index.html": "/shinbeolui/index.html",
+    "main.f91ad21b.css.map": "/shinbeolui/static/css/main.f91ad21b.css.map",
+    "main.4575fb5a.js.map": "/shinbeolui/static/js/main.4575fb5a.js.map",
+    "453.2d3a34cf.chunk.js.map": "/shinbeolui/static/js/453.2d3a34cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f91ad21b.css",
-    "static/js/main.b10cbd76.js"
+    "static/js/main.4575fb5a.js"
   ]
 }
